@@ -1,8 +1,10 @@
-// JavaScript Code
+// TypeScript Code
+// Variables
 var bookTitle = "TypeScript in Practice";
 var numPages = 250;
 var isPublished = true;
 var authors = ["Alice", "Bob", "Charlie"];
+// Object representing a book
 var book = {
     title: "JavaScript: The Good Parts",
     pages: 176,
