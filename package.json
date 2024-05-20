@@ -1,0 +1,14 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -w -p index.ts"
+  },
+  "author": "Turing School of Software and Design",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
