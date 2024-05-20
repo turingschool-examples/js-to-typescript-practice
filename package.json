@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "tsc -w -p index.ts"
+    "start": "tsc --watch & nodemon dist"
   },
   "author": "Turing School of Software and Design",
   "license": "MIT",
